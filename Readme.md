@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1> Hola Soy Candela</h1>
 <h3> sobre mi: </h3>
-<p>Hola! Soy una desarrolladora Full Stack en expansión, con muchas ganas de crecer profesionalmente, y capaz de cumplir con las tareas, buen desempeño en trabajo en grupo e individual. Soy una persona autodidacta, con muchas ganas de crecer profesionalmente, y capaz de cumplir con las tareas.</p>
+<p>Hola! Soy una desarrolladora Full Stack en expansión, con muchas ganas de crecer profesionalmente, y capaz de cumplir con las tareas, buen desempeño en trabajo en grupo e individual. Soy una persona autodidacta, con muchas ganas de crecer profesionalmente.</p>
 
 <!-- <h3>Tecnologias:</h3> -->
 
