@@ -3,7 +3,7 @@
 <h3> sobre mi: </h3>
 <p>Soy Desarrolladora Web Full Stack en expansión, especializándome en el Desarrollo Front-end & Web Design.
 
-Pongo en cada desafío el foco en el aprendizaje y la experiencia que cada tarea que realizo me puede aportar.
+Pongo el foco en el aprendizaje y la experiencia que cada tarea o desafio que realizo me puede aportar.
   
 Aporto a las empresas creatividad con iniciativa, para encontrar nuevas formas de resolver problemas motivando al equipo a ejercitarla. 
   
