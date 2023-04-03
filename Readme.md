@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1> Hola Soy Candela</h1>
-<h3> Sobre mi : </h3>
+<h3> Sobre mi: </h3>
 <p>Soy Desarrolladora Web Full Stack en expansión, especializándome en el Desarrollo Front-end & Web Design.
 
 Pongo el foco en el aprendizaje y la experiencia que cada tarea o desafio que realizo me puede aportar.
