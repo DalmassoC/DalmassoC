@@ -22,8 +22,4 @@ Busco trabajar en una empresa donde pueda seguir creciendo profesionalmente para
   <img align="left" width='500' hspace="200" src="https://github-readme-streak-stats.herokuapp.com/?user=DalmassoC&show_icons=true&bg_color=202020&text_color=B9B9B9&theme=dark" alt="DalmassoC" />
   <hr width="100%"/>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dalmassoc/dalmassoc/blob/output/snake.svg" alt="Snake animation" />
-
 ###
