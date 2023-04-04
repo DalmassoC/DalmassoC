@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1> Hola Soy Candela</h1>
+<h1> Hola Soy Candela </h1> :wave:
 <h3> Sobre mi: </h3>
 <p>Soy Desarrolladora Web Full Stack, en constante crecimiento, especializándome en el Desarrollo Front-end & Web Design.
 
@@ -9,7 +9,7 @@ Aporto a las empresas creatividad con iniciativa, para encontrar nuevas formas d
   
 Me apasiona desarrollar aplicaciones donde la experiencia del usuario sea excelente y vea en la misma innovación y arte.
   
-Busco trabajar en una empresa donde pueda seguir creciendo profesionalmente para aportar y explotar mis conocimientos dentro del equipo y aprender del mismo.</p>
+Busco trabajar en una empresa donde pueda seguir creciendo profesionalmente para aportar y explotar mis conocimientos dentro del equipo y aprender del mismo.</p>:sparkles:
 
 <!-- <h3>Tecnologias:</h3> -->
 
