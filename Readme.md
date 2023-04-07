@@ -1,6 +1,6 @@
 
 <h1> :wave: Hola Soy Candela </h1>
-<h3> Sobre mi: </h3>
+<h3> Sobre mi : </h3>
 <p>:small_orange_diamond: Soy Desarrolladora Web Full Stack, en constante crecimiento, especializándome en el Desarrollo Front-end & Web Design.
 
 :small_orange_diamond: Pongo el foco en el aprendizaje y la experiencia que cada tarea o desafio que realizo me puede aportar.
