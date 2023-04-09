@@ -11,7 +11,7 @@
   
 :small_orange_diamond: Busco trabajar en una empresa donde pueda seguir creciendo profesionalmente para aportar y explotar mis conocimientos dentro del equipo y aprender del mismo.:sparkles: </p>
 
-<!-- <h3>Tecnologias:</h3> -->
+<!-- <h3>Tecnologias y graficos:</h3> -->
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,react"/>
