@@ -14,7 +14,7 @@
 <!-- <h3>Tecnologias y graficos:</h3> -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,mongo,express,nodejs"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,mongo,express,nodejs,react native"/>
 </p>
 <hr width="100%"/>
   <img align="left" width="500" height="250"  hspace="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=DalmassoC&show_icons=true&bg_color=202020&text_color=B9B9B9&locale=es&layout=compact" alt="DalmassoC" />
